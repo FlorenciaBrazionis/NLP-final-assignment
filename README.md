@@ -1,4 +1,4 @@
-## [Hybrid Sentiment Analysis and Aspect Based Insight Extraction from Yelp Reviews](**NLP_Exam_Project__Yelp_Sentiment_Final.ipynb**)
+## [Hybrid Sentiment Analysis and Aspect Based Insight Extraction from Yelp Reviews](NLP_Exam_Project__Yelp_Sentiment_Final.ipynb)
 
 Natural Language Processing and Text Analytics
 Final Assignment
